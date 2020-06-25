@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Cocina Ya</string>
+    <string name="PreparemosDeComer">Comencemos a cocinar</string>
+    <string name="IngresaTuNumbre">Ingresa Tu nombre</string>
+    <string name="btnIniciar">Comencemos</string>
+    <string name="btnAgradecimiento">Agradecimientos</string>
+    <string name="Creditos">Creditos</string>
 </resources>
