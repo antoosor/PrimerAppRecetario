@@ -32,19 +32,29 @@
                 android:id="@+id/imageButtonSopa"
                 android:layout_width="match_parent"
                 android:layout_height="270dp"
+                android:scaleType="centerCrop"
                 app:srcCompat="@drawable/sopa" />
 
             <ImageButton
                 android:id="@+id/btnPlatoFuerte"
                 android:layout_width="match_parent"
                 android:layout_height="270dp"
+                android:scaleType="centerCrop"
                 app:srcCompat="@drawable/platofuerte" />
 
             <ImageButton
                 android:id="@+id/btnRapido"
                 android:layout_width="match_parent"
                 android:layout_height="270dp"
+                android:scaleType="centerCrop"
                 app:srcCompat="@drawable/rapido" />
+
+            <ImageButton
+                android:id="@+id/btnBebidas"
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/bebida" />
         </LinearLayout>
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

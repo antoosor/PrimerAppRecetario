@@ -27,6 +27,11 @@ class ActivityComencemos : AppCompatActivity() {
             val indicesopas = Intent(this,IndiceRapido::class.java)
             startActivity(indicesopas)
         }
+
+        btnBebidas.setOnClickListener {
+            val indiceBebidas = Intent(this, IndiceBebidas::class.java)
+            startActivity(indiceBebidas)
+        }
     }
 
 
