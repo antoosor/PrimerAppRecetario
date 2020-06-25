@@ -22,7 +22,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/edNombreUsuario"
         android:layout_width="286dp"
         android:layout_height="43dp"
         android:layout_marginStart="60dp"
@@ -44,7 +44,7 @@
         android:layout_marginTop="232dp"
         android:orientation="vertical"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText">
+        app:layout_constraintTop_toBottomOf="@+id/edNombreUsuario">
 
         <Button
             android:id="@+id/btnInicar"

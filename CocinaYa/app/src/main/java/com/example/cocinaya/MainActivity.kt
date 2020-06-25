@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         btnInicar.setOnClickListener {
             val pasarDatos = Intent (this,ActivityComencemos::class.java)
+            pasarDatos.putExtra("pasarNombre", edNombreUsuario.text.toString())
             startActivity(pasarDatos)
         }
     }
