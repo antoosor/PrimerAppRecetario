@@ -5,4 +5,9 @@
     <color name="colorAccent">#F2F4F3</color>
     <color name="colorextra">#6C91BF</color>
     <color name="botonesInicio">#B2393E41</color>
+    <color name="listViewColor">#FFFBF5</color>
+    <color name="FondoDeApp">#F8E9CF</color>
+    <color name="colorDeTemas">#FFA368</color>
+
+    <color name="colordetextoingredientes_preparacion">#FA6B10</color>
 </resources>

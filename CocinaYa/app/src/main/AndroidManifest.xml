@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".IndiceBebidas"></activity>
+        <activity android:name=".RecetaSopaAguada"></activity>
+        <activity android:name=".IndiceBebidas" />
         <activity android:name=".IndiceRapido" />
         <activity android:name=".IndicePLatoFuerte" />
         <activity android:name=".IndiceDeSopas" />

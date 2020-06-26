@@ -1,8 +1,41 @@
 <resources>
-    <string name="app_name">Cocina Ya</string>
-    <string name="PreparemosDeComer">Comencemos a cocinar</string>
-    <string name="IngresaTuNumbre">Ingresa Tu nombre</string>
-    <string name="btnIniciar">Comencemos</string>
-    <string name="btnAgradecimiento">Agradecimientos</string>
-    <string name="Creditos">Creditos</string>
+<string name="app_name">Cocina Ya</string>
+<string name="PreparemosDeComer">Comencemos a cocinar</string>
+<string name="IngresaTuNumbre">Ingresa Tu nombre</string>
+<string name="btnIniciar">Comencemos</string>
+<string name="btnAgradecimiento">Agradecimientos</string>
+<string name="Creditos">Creditos</string>
+
+
+<string name="sopaAguada">Sopa Aguada</string>
+
+
+    <string name="Ingrefientes">Ingredientes</string>
+    <string name="Procedimiento">Procedimiento</string>
+
+<string name="ingredientesSopaAguada">
+    1 bolsa de pasta(moño,estrella,fideo,etc) \n
+    3 jitomates\n
+    5 tomatillos verdes\n
+    1/4 parte de una cebolla \n
+    2 cubos de consomé de pollo en polvo, (con tomate) \n
+    2 cucharadas de aceite, para dorar la pasta\n
+    al gusto de queso panela, rallada\n
+    2 papas\n
+    1 zanahoria \n
+    1 calabacita \n
+    al gusto de limón\n
+    al gusto de cilantro fresco \n
+    al gusto de chile jalapeño\n
+    l gusto de sal \n
+    2 1/2 tazas de agua\n
+</string>
+    <string name="procedimiento">
+        Coloca aceite en una olla y dora la pasta por aproximadamente 10 minutos o hasta que se vea de un color cafecito, pero no quemado. \n\n
+        Muele los jitomates y los tomates junto con la cebolla y los dos cubitos de consomé de pollo en polvo con tomate. \n\n
+        Agrega la salsa que acabas de licuar a la olla en la que doraste pasta . \n\n
+        Cuece las papas, la zanahoria y la calabacita en una olla pequeña con un puñito de sal. \n\n
+        Agrega agua y espera a que hierva, agrega la verdura y cocina unos minutos más. Cuando la pasta esté blanda; está lista. \n\n
+        Sirve en un plato hondo y agrega limón, quesoy chile jalapeño al gusto. \n
+    </string>
 </resources>
