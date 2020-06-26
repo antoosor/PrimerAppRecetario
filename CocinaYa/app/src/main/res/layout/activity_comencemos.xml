@@ -55,6 +55,12 @@
                 android:layout_height="270dp"
                 android:scaleType="centerCrop"
                 app:srcCompat="@drawable/bebida" />
+            <ImageButton
+                android:id="@+id/btnMixtos"
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/mixto" />
         </LinearLayout>
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>
