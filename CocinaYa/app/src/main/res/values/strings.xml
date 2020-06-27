@@ -1,19 +1,21 @@
 <resources>
-<string name="app_name">Cocina Ya</string>
-<string name="PreparemosDeComer">Comencemos a cocinar</string>
-<string name="IngresaTuNumbre">Ingresa Tu nombre</string>
-<string name="btnIniciar">Comencemos</string>
-<string name="btnAgradecimiento">Agradecimientos</string>
-<string name="Creditos">Creditos</string>
+    <string name="app_name">Cocina Ya</string>
+    <string name="PreparemosDeComer">Comencemos a cocinar</string>
+    <string name="IngresaTuNumbre">Ingresa Tu nombre</string>
+    <string name="btnIniciar">Comencemos</string>
+    <string name="btnAgradecimiento">Agradecimientos</string>
+    <string name="Creditos">Creditos</string>
 
 
-<string name="sopaAguada">Sopa Aguada</string>
-
+    <string name="sopaAguada">Sopa Aguada</string>
+    <string name="sopatortilla">Sopa de Tortilla</string>
+    <string name="Caldodepollo">Caldo de Pollo</string>
+    <string name="Caldoderes">Caldo de Res</string>
 
     <string name="Ingrefientes">Ingredientes</string>
     <string name="Procedimiento">Procedimiento</string>
 
-<string name="ingredientesSopaAguada">
+    <string name="ingredientesSopaAguada">
     1 bolsa de pasta(moño,estrella,fideo,etc) \n
     3 jitomates\n
     5 tomatillos verdes\n
@@ -24,10 +26,10 @@
     2 papas\n
     1 zanahoria \n
     1 calabacita \n
-    al gusto de limón\n
-    al gusto de cilantro fresco \n
-    al gusto de chile jalapeño\n
-    l gusto de sal \n
+    limón al gusto\n
+    cilantro fresco al gusto \n
+    chile jalapeño al gusto\n
+    sal al gusto \n
     2 1/2 tazas de agua\n
 </string>
     <string name="procedimiento">
@@ -38,4 +40,85 @@
         Agrega agua y espera a que hierva, agrega la verdura y cocina unos minutos más. Cuando la pasta esté blanda; está lista. \n\n
         Sirve en un plato hondo y agrega limón, quesoy chile jalapeño al gusto. \n
     </string>
+
+    <string name="ingredientesSopadeTortilla">
+        5 chiles guajillos sin semillas \n
+        1/2 cebolla \n
+        1 diente de ajo \n
+        4 jitomates\n
+        Rebanadas de aguacate\n
+        1 taza de cubos de queso panela \n
+        1/2 taza de crema \n
+        Paquete de tortillas fritas \n
+        Aceite para freír \n
+    </string>
+
+    <string name="procedimientoSopaTortilla">
+       En una olla con agua caliente coloca los chiles guajillo, la cebolla, el diente de ajo y los 4 jitomates. Hierve hasta que los jitomates estén suaves. \n\n
+        Licúa todos los ingredientes, incluso el caldito.\n\n
+        En una olla calienta coloca un poco de aceite y vacía la mezcla recién licuada para freírla. Salpimienta y mantenla caliente.\n\n
+        Para servir coloca un puño de tortillas fritas en un plato, agrega la salsa, decora con rebanadas de aguacate, queso panela, un poco de crema y tiras de chile guajillo.\n\n
+    </string>
+
+    <string name="ingredientesCaldodePollo">
+        2 Pechugas de pollo\n
+        1 Esqueleto de pollo \n
+        150gr de Cebolla blanca \n
+        2 Zanahorias\n
+        2 Calabacitas\n
+        1 Chayote\n
+        150gr de Repollo\n
+        Cilantro al gusto\n
+        Sal al gusto\n
+        100gr de Arroz\n
+        100gr de Espinacas\n
+    </string>
+
+
+    <string name="procedimientoCaldodePollo">
+        Primero lava y deja suavizando el arroz blanco por 15 minutos en agua tibia. Después enjuágalo y ponlo a secar. \n\n
+        En una olla profunda por a cocinar el pollo con todos los huesos, así como cebolla, 3 litros de agua y sal al gusto. Recuerda que la carne debe ir sin piel para que tu caldo no sea tan grasoso.\n\n
+        De vez en vez quita la espuma que se haga en la superficie.\n\n
+        Corta la zanahoria, chayote, repollo, calabacita y espinacas en trozos pequeños, como de un centímetro por un centímetro.\n\n
+        Para este punto seguro el caldo ya empezó a hervir. De ser así, baja la flama de la estufa, tápalo y agrega el arroz.\n\n
+        A continuación, agrega la zanahoria. Esto, debido a que es el ingrediente que más tardará en cocinarse. Pasados cinco minutos déjale caer todos los cubitos de chayote y, hasta el último, la calabacita, espinacas y repollo.\n\n
+        Cada que puedas ve fijándote en cuan cocidas están ya las verduras, la carne y el arroz. Una vez que ya estén saca todo lo que puedas de la cebolla y el repollo.\n\n
+        Apaga un momento la olla, deja que el contenido enfríe unos cinco minutos y luego deshebra la carne y tira todos los huesos que puedas.\n\n
+        Apaga un momento la olla, deja que el contenido enfríe unos cinco minutos y luego deshebra la carne y tira todos los huesos que puedas.\n\n
+        Deja que la temperatura sea ideal para comer y sirve con un poco de todos los ingredientes. Te sugerimos que lo acompañes de chile serrano picado al gusto y gotitas de limón. Te sentirás abrazado.\n\n
+
+
+    </string>
+
+
+    <string name="ingredientesCaldodeRes">
+        12 tazas de agua\n
+        2 lbs de trozos de res con hueso\n
+        1 cabeza de ajo\n
+        2 hojas de laurel\n
+        2 a 3 cucharadas de sal \n
+        4 papas blancas cortadas en cubos de una pulgada\n
+        3 chiles serranos cortados en trozos\n
+        1 cebolla blanca pequeña cortada en cubos\n
+        4 zanahorias cortadas gruesas\n
+        3 elotes cortados en 9 trozos \n
+        4 tazas de repollo verde cortado en trozos de una pulgada (green cabbage)\n
+        1/2 taza de cilantro picado\n
+        16 tortillas de maíz, si las deseas\n
+        1 lima grande cortada en gajos, si la deseas
+    </string>
+
+
+    <string name="procedimientoCaldodeReso">
+        En una olla grande y pesada, vierte las 10 tazas de agua, la carne de res, el ajo, las hojas de laurel y 1 1/2 cucharada de sal. Cocina hasta hervir, retirando la espuma de la parte superior, si es necesario. Tapa la olla, baja el fuego y continúa cocinando entre 1 1/2 hora y 2 horas o hasta que la carne esté blanda.\n\n
+        En la licuadora, agrega los chiles serranos, 1/2 cucharadita de sal y 1/4 taza de agua, licúa hasta que esté todo bien mezclado y reserva.\n\n
+        Una vez que la carne esté blanda, retira las hojas de laurel y la cabeza de ajo. Agrega las papas en la olla, además de las cebollas, las zanahorias y los elotes. Añade las 2 tazas de agua restantes, prueba el caldo para determinar si tiene suficiente sal y condimenta a gusto. Deja que hierva, luego baja el fuego y continúa cocinando hasta que las papas estén tiernas cuando las pruebes con un tenedor.\n\n
+        Cuando las papas estén tiernas, retira los elotes y la carne de la sopa, transfiere a un recipiente grande y tapa para mantener todo caliente.\n\n
+        Agrega el repollo (green cabagge) y 1/4 taza de cilantro a la sopa. Cocina durante otros 15 a 20 minutos, hasta que el repollo (col verde) esté tierno pero al dente. Retira la sopa del fuego y déjala reposar durante 15 minutos. Calienta las tortillas de maíz en un comal o sartén caliente y mantenlas tibias en un calentador de tortillas.\n\n
+        Divide la sopa en 8 recipientes. Agrega el elote y un trozo de carne a cada recipiente. Decora con los gajos de lima, el cilantro y la salsa Serrano para agregar un toque picante.\n\n
+        Puedes servir con tortillas de maíz tibias, si lo deseas.\n\n
+
+    </string>
+
+
 </resources>

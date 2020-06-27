@@ -26,7 +26,22 @@ class IndiceDeSopas : AppCompatActivity() {
 
                 }
                 if (position == 1){
-                    Toast.makeText(this@IndiceDeSopas,"Sopa tortilla",Toast.LENGTH_SHORT).show()
+                    val paseASopadeTortilla = Intent(
+                        this@IndiceDeSopas,RecetaSopaTortilla::class.java)
+                        startActivity(paseASopadeTortilla)
+
+                }
+                if  (position == 2){
+                    val paseCaldoPollo = Intent(
+                    this@IndiceDeSopas,RecetaCaldoPollo::class.java)
+                    startActivity(paseCaldoPollo)
+                }
+
+                if  (position == 3){
+                    val paseCaldodeRes = Intent(
+                    this@IndiceDeSopas,RecetaCaldoRes::class.java)
+                    startActivity(paseCaldodeRes)
+
                 }
             }
 

@@ -17,7 +17,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/sopaaguada" />
+        app:srcCompat="@drawable/sopadetortilla" />
 
     <TextView
         android:id="@+id/textView2"
@@ -26,7 +26,7 @@
         android:layout_marginTop="4dp"
         android:background="@color/colorDeTemas"
         android:gravity="center"
-        android:text="@string/sopaAguada"
+        android:text="@string/sopatortilla"
         android:textColor="#fff"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -64,7 +64,7 @@
                 android:id="@+id/textView6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ingredientesSopaAguada"
+                android:text="@string/ingredientesSopadeTortilla"
                 android:textSize="18sp"
                 android:padding="10dp"
                 android:inputType="textMultiLine"/>
@@ -81,7 +81,7 @@
                 android:id="@+id/textView8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/procedimiento"
+                android:text="@string/procedimientoSopaTortilla"
                 android:textSize="18sp"
                 android:padding="10dp"
                 android:inputType="textMultiLine"/>
