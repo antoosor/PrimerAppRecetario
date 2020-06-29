@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RecetaCaldoRes"></activity>
+        <activity android:name=".RecetaAlbondigadeRes"></activity>
+        <activity android:name=".RecetaAlambredePuerco" />
+        <activity android:name=".RecetaAlambredeRes" />
+        <activity android:name=".RecetaAlambredePollo" />
+        <activity android:name=".RecetaCaldoRes" />
         <activity android:name=".RecetaCaldoPollo" />
         <activity android:name=".RecetaSopaTortilla" />
         <activity android:name=".RecetaSopaAguada" />

@@ -12,6 +12,13 @@
     <string name="Caldodepollo">Caldo de Pollo</string>
     <string name="Caldoderes">Caldo de Res</string>
 
+
+    <string name="alambrederes">Alambre de Res</string>
+    <string name="alambredepollo">Alambre de Pollo</string>
+    <string name="alambredepuerco">Alambre de Puerco</string>
+    <string name="albondigasderes">Albondigas de Res</string>
+
+
     <string name="Ingrefientes">Ingredientes</string>
     <string name="Procedimiento">Procedimiento</string>
 
@@ -121,4 +128,106 @@
     </string>
 
 
+    <string name="ingredientesAlambreDePollo">
+        1 pieza de pechuga de pollo en bisteces\n
+        35 mililitros de Aceite\n
+        100 gramos de Tocino picado\n
+        100 gramos de jamón de cerdo picadi\n
+        1/2 pieza de cebolla blanca fileteada\n
+        3 piezas de Pimientos morrones\n
+        200 gramos de champiñón\n
+        250 gramos de queso oaxaca\n
+        1 gramo de Pimienta\n
+        2 gramos de Sal\n
+
+    </string>
+
+
+    <string name="procedimientoAlambredePollo">
+        Para comenzar con el alambre de pollo debes picar los pimientos en cubos y la cebolla en tiras delgadas. Resérvalas.\n\n
+        Haz lo mismo con los champiñones y resérvalos.\n\n
+        En una cacerola con aceite caliente pon la cebolla y déjala sofreír hasta que se haga transparente.\n\n
+        Agrega los pimientos, el jamón, el tocino y déjalos cocinar durante 10 minutos.\n\n
+        Agrega el pollo picado en cubos, los champiñones y sazona con sal y pimienta. Déjalo cocer en su totalidad y retira del fuego.\n\n
+        En un plato pon un poco del alambre de pollo y un poco de queso oaxaca deshebrado. Lleva al microondas durante 2 minutos y sirve de inmediato. Recuerda que puedes acompañar este delicioso alambre mexicano con unas buenas tortillas mexicanas de maíz. No te pierdas nuestra receta de nopales en salsa roja para completar tu menú mexicano.\n\n
+
+
+
+    </string>
+
+    <string name="ingredientesAlambreDeRes">
+        1/2 kilos de bistec de res\n
+        2 pimientos, 1 verde y 1 rojo\n
+        Chile al gusto\n
+        1/2 cucharadas de ajo molido\n
+        250 gr de queso oaxaca\n
+        1/2 cebolla picada en cuadros medianos\n
+        Sal al gusto \n
+        100 gr de chorizo\n
+        100 gr de jamón\n
+        100 gr de tocino\n
+        100 gr de salchicha\n
+
+    </string>
+
+
+    <string name="procedimientoAlambredeRes">
+       Corta la carne en pedazos de aproximadamente 2 cm.\n\n
+        Haz lo mismo con los champiñones y resérvalos.\n\n
+        Pica la cebolla y los pimientos en trozos casi del mismo tamaño que los de la carne. Pica el chile verde en trozos chicos.\n\n
+        Corta el tocino y el jamón en cuadritos de aproximadamente 1 cm La salchicha córtala en trozos pequeños y el chorizo bien desmenuzado.\n\n
+       Añade toda la verdura picada: cebolla, pimiento, chile y ajo. Sigue friendo, moviendo de vez en cuando, hasta que todo esté cocido a tu gusto.\n\n
+       Agrega la sal y justo antes de servir el alambre, coloca encima el queso oaxaca para que se derrita sobre la mezcla de carne y verduras.\n\n
+
+
+
+    </string>
+
+    <string name="ingredientesAlambreDePuerco">
+        1/2 kg bistec de puerco\n
+        3 chiles morrón\n
+        2 jitomates\n
+        1/2 cebolla\n
+        1 diente de ajo\n
+        200 gramos queso Oaxaca\n
+        Sal al gusto \n
+        Aceite vegetal\n
+
+    </string>
+
+    <string name="procedimientoAlambredePuerco">
+       Picar todos los ingredientes.\n\n
+        Cortar la carne en trozos pequeños.\n\n
+        Freír el ajo y agregar la carne a fuego medio.\n\n
+       Agregar la cebolla y los jitomates picados.\n\n
+       Agregar los chiles morrón picados.\n\n
+       Mezclar y dejar cocer por 20 minutos.\n\n
+        Por último agregar el queso deshebrado, apagar el fuego, tapar la olla y dejar que se derrita el queso.\n\n
+
+
+    </string>
+
+
+    <string name="ingredientesAlbondigasdeRes">
+        3 Cucharadas de Pan molido\n
+        800 Gramos Carne de res de carne molida\n
+        1 Unidad Huevo ligeramente batido\n
+        2 Cucharadas Cebolla finamente picada\n
+        1 Cubo Concentrado de Tomate con Pollo CONSOMATE®\n
+        2 1/2 Tazas Puré de tomate\n
+        2 Piezas Chile chipotle adobados\n
+        3/4 Taza Agua\n
+        1/2 Cucharadita Sal con cebolla en polvo\n
+        1/2 Cucharadita Sal con cebolla en polvo\n
+        1/2 Paquete Tocino frito y picado finamente\n
+        2 Piezas Huevo cocidos, pelados y picados\n
+    </string>
+
+
+    <string name="procedimientoAlbondigasdeRes">
+        Para la salsa, licúa el puré con los chiles chipotle, el agua, el Concentrado de Tomate con Pollo CONSOMATE® y ½ cucharadita de sal con cebolla. Calienta hasta que hierva ligeramente.\n\n
+        Para las albóndigas, mezcla la carne con el tocino, el huevo, la cebolla, ½ cucharadita de sal con cebolla y el pan molido; forma las albóndigas y rellena el centro con un poco de huevo picado.\n\n
+        Calienta el aceite y fríe las albóndigas, agrega la salsa y cocina por 15 minutos a fuego bajo moviendo constantemente o hasta que estén cocidas. Ofrece.\n\n
+
+    </string>
 </resources>
