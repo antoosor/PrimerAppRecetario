@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/sopa" />
+        app:srcCompat="@drawable/rapido" />
 
     <FrameLayout
         android:layout_width="421dp"
@@ -25,7 +25,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView">
 
         <ListView
-            android:id="@+id/ListView"
+            android:id="@+id/ListViewComidaRApida"
             android:layout_width="match_parent"
             android:layout_height="409dp" />
     </FrameLayout>

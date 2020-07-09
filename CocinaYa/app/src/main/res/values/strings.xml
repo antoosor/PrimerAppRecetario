@@ -11,12 +11,18 @@
     <string name="sopatortilla">Sopa de Tortilla</string>
     <string name="Caldodepollo">Caldo de Pollo</string>
     <string name="Caldoderes">Caldo de Res</string>
-
+    <string name="Busqueda">Buscar</string>
 
     <string name="alambrederes">Alambre de Res</string>
     <string name="alambredepollo">Alambre de Pollo</string>
     <string name="alambredepuerco">Alambre de Puerco</string>
     <string name="albondigasderes">Albondigas de Res</string>
+
+
+    <string name="sincronizada">Sincronizada</string>
+    <string name="sandwichmontecristo">Sandwinch Montecristo</string>
+    <string name="HotDog">Hot - Dog </string>
+    <string name="Hamburguesa">Hamburguesa</string>
 
 
     <string name="Ingrefientes">Ingredientes</string>
@@ -230,4 +236,25 @@
         Calienta el aceite y fríe las albóndigas, agrega la salsa y cocina por 15 minutos a fuego bajo moviendo constantemente o hasta que estén cocidas. Ofrece.\n\n
 
     </string>
+
+    <string name="ingredientesSincronizada">
+       tortillas de harina\n
+        quesos amarillos, o Oaxaca deshebrado\n
+        Jamón de Pavo\n
+        1 lata de chile chipotle\n
+        50 mililitros de crema ácida\n
+        hojas de lechuga verde\n
+
+    </string>
+
+    <string name="procedimientoSincronizada">
+        Deshebra el queso Oaxaca y colócalo en un plato. En caso de que hayas optado por queso amarillo, ralla y reserva.\n\n
+        Arma las sincronizadas colocando una tortilla de harina y sobre ella una rebanada de jamón, este puede ser tan grueso o delgado como prefieras.\n\n
+        Ahora, coloca un poco de queso procurando que quede al centro para que al momento de derretirse no se desparrame. Coloca una tortilla encima tapando cada sincronizada..\n\n
+        Coloca una sincronizada en una sartén plana, deja cocinar a fuego medio o hasta que se derrita el queso. Voltéala a los cinco minutos para que no se queme, recuerda que las tortillas de harina se queman con más facilidad.\n\n
+        Una vez hechas, abre por la mitad y coloca una hoja de lechuga por dentro (previamente desinfectada y centrifugada).\n\n
+        Puedes hacer la mezcla de chipotle y crema y colocarla por encima de cada sincronizada o servir a parte para que cada quien se la agregue.\n\n
+
+    </string>
+
 </resources>

@@ -16,15 +16,15 @@ class ActivityComencemos : AppCompatActivity() {
         tvNombreRecibido.setText("Te damos la Bienvenida " + nombre)
 
         imageButtonSopa.setOnClickListener {
-            val indicesopas = Intent(this,IndiceDeSopas::class.java)
+            val indicesopas = Intent(this,IndiceSopas::class.java)
             startActivity(indicesopas)
         }
         btnPlatoFuerte.setOnClickListener {
-            val indiceplatoFuerte = Intent(this,IndicePLatoFuerte::class.java)
-            startActivity(indiceplatoFuerte)
+          //  val indiceplatoFuerte = Intent(this,IndicePLatoFuerte::class.java)
+          //  startActivity(indiceplatoFuerte)
         }
         btnRapido.setOnClickListener {
-            val indiceComidaRapida = Intent(this,IndiceRapido::class.java)
+            val indiceComidaRapida = Intent(this,IndiceComidaRapida::class.java)
             startActivity(indiceComidaRapida)
         }
 
@@ -32,9 +32,13 @@ class ActivityComencemos : AppCompatActivity() {
             val indiceBebidas= Intent(this, IndiceBebidas::class.java)
             startActivity(indiceBebidas)
         }
+
+
     }
 
 
 
 
 }
+
+

@@ -18,12 +18,14 @@
         android:text="@string/PreparemosDeComer"
         android:textColor="@color/colorPrimary"
         android:textSize="24dp"
+
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/edNombreUsuario"
         android:layout_width="286dp"
+        android:drawableLeft="@drawable/ic_usaurio"
         android:layout_height="43dp"
         android:layout_marginStart="60dp"
         android:layout_marginTop="104dp"
