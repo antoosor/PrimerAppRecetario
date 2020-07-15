@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".IndiceSopas"></activity>
+        <activity android:name=".IndiceBebidas"></activity>
+        <activity android:name=".IndiceDiabetico" />
+        <activity android:name=".IndiceVegetariana" />
+        <activity android:name=".IndicePlatoFuerte" />
+        <activity android:name=".IndiceSopas" />
         <activity android:name=".Solofiltro" />
         <activity android:name=".IndiceComidaRapida" />
         <activity android:name=".RecetaSincronizada" />
@@ -21,7 +25,6 @@
         <activity android:name=".RecetaCaldoPollo" />
         <activity android:name=".RecetaSopaTortilla" />
         <activity android:name=".RecetaSopaAguada" />
-        <activity android:name=".IndiceBebidas" />
         <activity android:name=".IndiceRapido" />
         <activity android:name=".IndicePLatoFuerte" />
         <activity android:name=".ActivityComencemos" />

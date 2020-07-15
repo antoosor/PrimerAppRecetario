@@ -4,16 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".IndiceBebidas">
+    tools:context=".IndicePlatoFuerte">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/listaBebidas"
-        android:layout_width="361dp"
-        android:layout_height="574dp"
+        android:id="@+id/listaPlatoFuerte"
+        android:layout_width="366dp"
+        android:layout_height="594dp"
         android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
         android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.481"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

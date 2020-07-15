@@ -25,11 +25,10 @@
     <EditText
         android:id="@+id/edNombreUsuario"
         android:layout_width="286dp"
-        android:drawableLeft="@drawable/ic_usaurio"
         android:layout_height="43dp"
-        android:layout_marginStart="60dp"
         android:layout_marginTop="104dp"
         android:background="@color/botonesInicio"
+        android:drawableLeft="@drawable/ic_usaurio"
         android:ems="10"
         android:gravity="center"
         android:hint="@string/IngresaTuNumbre"
@@ -37,6 +36,7 @@
         android:textColor="#fff"
         android:textColorHint="@color/colorPrimary"
         android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
@@ -54,7 +54,9 @@
             android:layout_height="wrap_content"
             android:background="@color/botonesInicio"
             android:text="@string/btnIniciar"
-            android:textColor="#FF9800" />
+            android:textSize="25dp"
+            android:textColor="#FF9800"
+            android:textStyle="bold" />
 
         <LinearLayout
             android:layout_width="match_parent"

@@ -20,19 +20,23 @@ class ActivityComencemos : AppCompatActivity() {
             startActivity(indicesopas)
         }
         btnPlatoFuerte.setOnClickListener {
-          //  val indiceplatoFuerte = Intent(this,IndicePLatoFuerte::class.java)
-          //  startActivity(indiceplatoFuerte)
+           val indiceplatoFuerte = Intent(this,IndicePlatoFuerte::class.java)
+           startActivity(indiceplatoFuerte)
         }
         btnRapido.setOnClickListener {
-            val indiceComidaRapida = Intent(this,IndiceComidaRapida::class.java)
-            startActivity(indiceComidaRapida)
+           val indiceComidaRapida = Intent(this,IndiceVegetariana::class.java)
+           startActivity(indiceComidaRapida)
         }
 
-        btnBebidas.setOnClickListener {
+       btnBebidas.setOnClickListener {
             val indiceBebidas= Intent(this, IndiceBebidas::class.java)
             startActivity(indiceBebidas)
         }
 
+        btnDiabeticos.setOnClickListener {
+            val indicePlatoFuerte = Intent(this,IndiceDiabetico::class.java)
+            startActivity(indicePlatoFuerte)
+        }
 
     }
 
