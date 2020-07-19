@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".IndiceBebidas"></activity>
+        <activity android:name=".RecetaEspaguetiCremaQueso"></activity>
+        <activity android:name=".RecetaCremaQuesos" />
+        <activity android:name=".RecetaCremaChampinion" />
+        <activity android:name=".RecetaArrozVerde" />
+        <activity android:name=".RecetaArrozRojo" />
+        <activity android:name=".RecetaArrozBlanco" />
+        <activity android:name=".IndiceBebidas" />
         <activity android:name=".IndiceDiabetico" />
         <activity android:name=".IndiceVegetariana" />
         <activity android:name=".IndicePlatoFuerte" />

@@ -13,12 +13,11 @@
         android:layout_height="215dp"
         android:layout_marginTop="16dp"
         android:scaleType="centerCrop"
-
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/caldoderes" />
+        app:srcCompat="@drawable/cremadechampinones" />
 
     <TextView
         android:id="@+id/textView2"
@@ -27,7 +26,7 @@
         android:layout_marginTop="4dp"
         android:background="@color/colorDeTemas"
         android:gravity="center"
-        android:text="@string/Caldoderes"
+        android:text="@string/CremadeChampiñones"
         android:textColor="#fff"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -35,8 +34,8 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 
     <ScrollView
-        android:layout_width="395dp"
-        android:layout_height="352dp"
+        android:layout_width="391dp"
+        android:layout_height="362dp"
         android:layout_marginStart="1dp"
         android:layout_marginTop="2dp"
         android:layout_marginEnd="1dp"
@@ -69,7 +68,7 @@
                 android:layout_height="wrap_content"
                 android:inputType="textMultiLine"
                 android:padding="10dp"
-                android:text="@string/ingredientesCaldodeRes"
+                android:text="@string/ingredientesCremaChampiñones"
                 android:textSize="18sp" />
 
             <TextView
@@ -88,7 +87,7 @@
                 android:layout_height="wrap_content"
                 android:inputType="textMultiLine"
                 android:padding="10dp"
-                android:text="@string/procedimientoCaldodeReso"
+                android:text="@string/procedimientoCremaChampiñones"
                 android:textSize="18sp" />
 
         </LinearLayout>

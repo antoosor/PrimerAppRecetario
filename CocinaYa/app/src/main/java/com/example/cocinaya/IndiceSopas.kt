@@ -1,7 +1,9 @@
 package com.example.cocinaya
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -34,7 +36,59 @@ class IndiceSopas : AppCompatActivity() {
         layoutManager = LinearLayoutManager(this)
         lista?.layoutManager = layoutManager
 
-        adaptador = AdaptadorCustom(this,entradas)
+        adaptador = AdaptadorCustom( entradas, object : ClickListener{
+            override fun onClicck(vista: View, index: Int) {
+
+                when(index){
+
+                    0 ->  {val pasoSopaAguada = Intent(
+                    applicationContext,RecetaSopaAguada::class.java)
+                    startActivity(pasoSopaAguada)}
+                    1 ->{
+                        val pasoSopaTortilla = Intent(
+                            applicationContext,RecetaSopaTortilla::class.java)
+                        startActivity(pasoSopaTortilla)
+                    }
+                    2 ->  {val pasoCaldoPollo = Intent(
+                        applicationContext,RecetaCaldoPollo::class.java)
+                        startActivity(pasoCaldoPollo)}
+                    3 ->{
+                        val pasoCaldoRes = Intent(
+                            applicationContext,RecetaCaldoRes::class.java)
+                        startActivity(pasoCaldoRes)
+                    }
+                    4 ->  {val pasoArrozBlanco = Intent(
+                        applicationContext,RecetaArrozBlanco::class.java)
+                        startActivity(pasoArrozBlanco)}
+                    5 ->{
+                        val pasoArrozRojo = Intent(
+                            applicationContext,RecetaArrozRojo::class.java)
+                        startActivity(pasoArrozRojo)
+                    }
+                    6 ->{
+                        val pasoArrozVerde = Intent(
+                            applicationContext,RecetaArrozVerde::class.java)
+                        startActivity(pasoArrozVerde)
+                    }
+                    7 ->  {val pasoCremaChampinion= Intent(
+                        applicationContext,RecetaCremaChampinion::class.java)
+                        startActivity(pasoCremaChampinion)}
+                    8 ->{
+                        val pasoCremaQueso = Intent(
+                            applicationContext,RecetaCremaQuesos::class.java)
+                        startActivity(pasoCremaQueso)
+                    }
+                    9 ->  {val pasoEspaguetiCremaQueso = Intent(
+                        applicationContext,RecetaEspaguetiCremaQueso::class.java)
+                        startActivity(pasoEspaguetiCremaQueso)}
+
+                }
+
+
+            }
+
+
+        })
         lista?.adapter = adaptador
 
 

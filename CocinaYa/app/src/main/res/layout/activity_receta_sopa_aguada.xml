@@ -34,11 +34,13 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 
     <ScrollView
-        android:layout_width="409dp"
-        android:layout_height="338dp"
+        android:layout_width="391dp"
+        android:layout_height="347dp"
         android:layout_marginStart="1dp"
         android:layout_marginTop="2dp"
         android:layout_marginEnd="1dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
         android:background="@color/colorAccent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -54,8 +56,8 @@
                 android:id="@+id/textView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/Ingrefientes"
                 android:padding="10dp"
+                android:text="@string/Ingrefientes"
                 android:textColor="@color/colordetextoingredientes_preparacion"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -64,27 +66,29 @@
                 android:id="@+id/textView6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ingredientesSopaAguada"
-                android:textSize="18sp"
+                android:inputType="textMultiLine"
                 android:padding="10dp"
-                android:inputType="textMultiLine"/>
+                android:text="@string/ingredientesSopaAguada"
+                android:textSize="18sp" />
+
             <TextView
                 android:id="@+id/textView7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/Procedimiento"
                 android:padding="10dp"
+                android:text="@string/Procedimiento"
                 android:textColor="@color/colordetextoingredientes_preparacion"
                 android:textSize="18sp"
                 android:textStyle="bold" />
+
             <TextView
                 android:id="@+id/textView8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/procedimiento"
-                android:textSize="18sp"
+                android:inputType="textMultiLine"
                 android:padding="10dp"
-                android:inputType="textMultiLine"/>
+                android:text="@string/procedimiento"
+                android:textSize="18sp" />
 
         </LinearLayout>
     </ScrollView>

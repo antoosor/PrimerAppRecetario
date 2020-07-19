@@ -10,7 +10,7 @@ import android.widget.RatingBar
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-class AdaptadorCustom(var contexto:Context,items:ArrayList<Entrada>): RecyclerView.Adapter<AdaptadorCustom.ViewHolder>() {
+class AdaptadorCustom(items:ArrayList<Entrada>, var listener: ClickListener): RecyclerView.Adapter<AdaptadorCustom.ViewHolder>() {
 
     var items: ArrayList<Entrada>? =  null
     init {
@@ -18,8 +18,8 @@ class AdaptadorCustom(var contexto:Context,items:ArrayList<Entrada>): RecyclerVi
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): AdaptadorCustom.ViewHolder {
-        val vista =  LayoutInflater.from(contexto).inflate(R.layout.item_sopas, parent,false)
-        val viewHolder =  ViewHolder(vista)
+        val vista =  LayoutInflater.from(parent?.context).inflate(R.layout.item_sopas, parent,false)
+        val viewHolder =  ViewHolder(vista, listener )
 
         return viewHolder
     }
@@ -38,18 +38,26 @@ class AdaptadorCustom(var contexto:Context,items:ArrayList<Entrada>): RecyclerVi
 
     }
 
-    class ViewHolder(vista:View): RecyclerView.ViewHolder(vista){
+    class ViewHolder(vista:View, listener: ClickListener): RecyclerView.ViewHolder(vista), View.OnClickListener{
         var vista = vista
         var foto:  ImageView? = null
         var nombre:  TextView? = null
         var tiempoPreparacion: TextView? = null
         var calificacion: RatingBar? = null
+        var listener:  ClickListener? = null
 
         init {
             foto =  vista.findViewById(R.id.ivFoto)
             nombre=  vista.findViewById(R.id.tvNombre)
             calificacion =  vista.findViewById(R.id.rbCalificacion)
             tiempoPreparacion = vista.findViewById(R.id.tvTiempoPreparacion)
+            this.listener = listener
+            vista.setOnClickListener(this)
+        }
+
+        override fun onClick(v: View?) {
+            this.listener?.onClicck(v!!,adapterPosition)
+
         }
 
     }

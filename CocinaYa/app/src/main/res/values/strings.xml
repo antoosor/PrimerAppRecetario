@@ -5,13 +5,19 @@
     <string name="btnIniciar">Comencemos</string>
     <string name="btnAgradecimiento">Agradecimientos</string>
     <string name="Creditos">Creditos</string>
-
+    <string name="Busqueda">Buscar</string>
 
     <string name="sopaAguada">Sopa Aguada</string>
     <string name="sopatortilla">Sopa de Tortilla</string>
     <string name="Caldodepollo">Caldo de Pollo</string>
     <string name="Caldoderes">Caldo de Res</string>
-    <string name="Busqueda">Buscar</string>
+    <string name="ArrozRojo">Arroz Rojo</string>
+    <string name="ArrozBlanco">Arroz Blanco</string>fa
+    <string name="ArrozVerde">Arroz Verde</string>
+    <string name="CremadeChampiñones">Crema de Champiñones</string>
+    <string name="CremadeQueso">Crema de Queso</string>
+    <string name="Espagueti">Espagueti con Crema y Queso</string>
+
 
     <string name="alambrederes">Alambre de Res</string>
     <string name="alambredepollo">Alambre de Pollo</string>
@@ -256,5 +262,121 @@
         Puedes hacer la mezcla de chipotle y crema y colocarla por encima de cada sincronizada o servir a parte para que cada quien se la agregue.\n\n
 
     </string>
+
+    <string name="ingredientesArrozBlanco">
+        2 tazas y media de agua\n
+        2 cucharadas de aceite por cada taza de arroz\n
+        1 taza de arroz blanco de grano redondo\n
+        5 g. de sal\n
+    </string>
+
+    <string name="procedimientoArrozBlanco">
+        Añadimos dos cucharadas de aceite por cada taza de arroz que vayáis a utilizar.\n\n
+        El aceite es el ingrediente que ayudará a que no se pegue el arroz.\n\n
+        Calentamos la cazuela y echamos el aceite, en cuanto veamos que está caliente añadimos el arroz y removemos durante un minuto aproximadamente a temperatura media para tostar el arroz.\n\n
+        Vertemos 2 tazas de agua y media por cada taza de arroz, dejamos a fuego fuerte durante 4 minutos hasta que pille mucha temperatura y empiece a hacer borbotones.\n\n
+        Añadimos sal y luego bajamos a fuego medio unos 12 minutos con la tapa de la cazuela puesta.\n\n
+        Cuando veamos que ya casi no hay agua y empiezan a quedar pequeños agujeros entre los granos de arroz, bajamos la temperatura al mínimo tres minutos o simplemente apagamos el fuego.\n\n
+        Dejamos que repose con la tapa puesta o con un trapo de algodón durante unos 5 minutos.\n\n
+        Mientras reposa, el arroz absorberá el resto de agua y te debería quedar en su punto y los granos separados.\n\n
+        Podemos ir probando el arroz en el reposo para ver como está quedando.\n\n
+
+    </string>
+
+
+    <string name="ingredientesArrozRojo">
+        1 1/2 tazas de arroz\n
+        3 jitomates\n
+        1 cebolla\n
+        1 taza de granos de elote precocidos\n
+        2 calabazas picadas\n
+        Sal y pimienta al gusto\n
+    </string>
+
+    <string name="procedimientoArrozRojo">
+        Licua el jitomate con 3 tazas de agua, 1/4 de cebolla, sal y pimienta; reserva.\n\n
+        Fríe el arroz en una cacerola con aceite y sin dejar de mover hasta que se impregne y comience a dorar.\n\n
+        Agrega el licuado, pon la tapa, baja el fuego y cocina 20 minutos o hasta que el arroz esté cocido y seco.\n\n
+        Pica la cebolla restante y fríela en una cacerola con poco aceite, cuando esté acitronada añade los granos de elote y las calabazas.\n\n
+        Sazona con sal y pimienta, tapa el recipiente y cocina a fuego bajo hasta que las calabazas estén cocidas.\n\n
+
+    </string>
+
+    <string name="ingredientesArrozVerde">
+        1 taza (8 oz/225 g) de espinaca\n
+        1/2 taza (4 oz/25 g) de cilantro entero\n
+        1 1/4 taza (10 oz/300 ml) de caldo de pollo\n
+        1 1/4 taza (10 oz/300 ml) leche (la leche entera o leche de coco funcionan muy bien)\n
+        2 cucharadas de aceite\n
+        1 1/2 taza (12 oz/337 g) arroz de grano largo\n
+        1/2 cucharadita de cebolla en polvo (o ¼ de taza o 4 oz de cebolla fresca picada)\n
+        1/4 cucharadita de ajo en polvo (o 1 diente de ajo finamente picado
+        Sal y pimienta al gusto\n
+    </string>
+
+    <string name="procedimientoArrozVerde">
+        Licúa la espinaca, cilantro y caldo de pollo en una licuadora por unos minutos hasta que la espinaca esté bien triturada. Agrega la leche y sal al gusto y vuelve a licuar. Coloca aparte.\n\n
+        Licúa la espinaca, cilantro y caldo de pollo en una licuadora por unos minutos hasta que la espinaca esté bien triturada. Agrega la leche y sal al gusto y vuelve a licuar. Coloca aparte.\n\n
+        Agrega la mezcla de espinaca, la cebolla en polvo y ajo en polvo y revuelve. Tapa la olla, deja a que hierva, reduce el fuego a bajo y cocina por unos 20 minutos o hasta que todo el líquido se haya evaporado. Remueve la olla del calor, déjala reposar por unos minutos y luego revuelve bien con un tenedor antes de servirlo.\n\n
+
+
+    </string>
+
+    <string name="ingredientesCremaChampiñones">
+        400 gr de champiñones limpios\n
+        2 tallos de apio\n
+        1 cebolla\n
+        2 dientes de ajo\n
+        Una pizca de tomillo\n
+        1 l de caldo de pollo \n
+        75 ml de leche evaporada\n
+        3 rebanadas de pan duro\n
+        Aceite de oliva virgen extra\n
+        Pimienta negra y Sal al gusto\n
+    </string>
+
+    <string name="procedimientoCremaChampiñones">
+        Comenzamos lavando los champiñones. No debemos lavarlos ‘bajo el chorro del grifo’, aunque nos parezca la mejor forma para quitarles las impurezas. El sabor y aroma de los champiñones es suave y si los lavamos bajo el chorro del agua influye en el sabor. Si los puedes remojar suave en un recipiente con agua.\n\n
+        Luego con un cepillo de dientes u otro cepillo suave humedecido vas limpiando los champiñones uno por uno. Quitando si hay pequeños restos de tierra. Una vez cepillados los champiñones de nuevo sumergirlos en agua pero poco tiempo y escurrir. De esta forma el sabor y aroma al cocinarlos se preserva mejor. Cortar los champiñones láminas finas.\n\n
+        A continuación pelar el apio, los ajos y la cebolla. Cortamos también fino el perejil. En un recipiente calentamos aceite de oliva a fuego medio. Añadimos la cebolla para que se dore. Luego los apios, el ajo, el perejil y un poco de tomillo. Salteamos todo un par de minutos.\n\n
+        Añadimos los champiñones al recipiente, lo tapamos y dejamos que se vayan cocinando a fuego lento unos 10 minutos, tienes que notar que están blandos y verá que van soltando agua. Añadimos ahora el caldo de pollo al recipiente donde hemos cocinado los champiñones, añadimos también las tres rebanadas de pan desmenuzadas, de nuevo cocinar 15 minutos.\n\n
+        Trascurrido el tiempo apagamos el fuego, sacamos unos cuantos trocitos de champiñones que usaremos luego,  y añadimos la leche evaporada. Con cuidado de no quemarnos introducimos la batidora en el recipiente (puedes poner un poco de papel de aluminio rodeando el borde del recipiente para que no salpique). Batimos todo bien hasta lograr una crema fina. A la hora de servir añadimos por encima trocitos de champiñones y un poco de perejil.\n\n
+
+    </string>
+
+    <string name="ingredientesCremaQueso">
+        2 Tazas Agua\n
+        2 Paquetes Queso crema (190 g c/u)\n
+        1 Lata Leche Evaporada CARNATION®\n
+        1 1/2 Cucharada *Consomé de pollo en polvo\n
+        1/4 Cucharadita Pimienta negra para decorar\n
+
+    </string>
+
+    <string name="procedimientoCremaqueso">
+        Licúa la Leche Evaporada CARNATION® CLAVEL® con el agua, el queso crema y el consomé de pollo en polvo. Cocina durante 10 minutos o hasta que espese un poco, moviendo constantemente para evitar que se pegue.\n\n
+        Retira del fuego, cuela y ofrece; espolvorea pimienta.\n\n
+        Consejo culinario: Al gusto de acada quien se recomienda decorar con rebanadas de champiñones azados y acomapañar con trocitos de nuez con crotones.\n\n
+
+    </string>
+
+    <string name="ingredientesEspaguetiCremaQueso">
+        500 gramos de espagueti\n
+        50 gramos de mantequilla\n
+        1/2 litro de crema\n
+        1/2 cebolla finamente picada\n
+        1 taza de queso parmesano\n
+
+    </string>
+
+    <string name="procedimientoEspaguetiCremaQueso">
+        HIERVE agua y agrega el espagueti durante 10 minutos; retira y cuela.\n\n
+        DERRITE la mantequilla y agrega la cebolla, sofríe hasta que esté transparente.\n\n
+        LICUA la cebolla con la crema; puedes agregar leche para que no esté tan espesa.\n\n
+        AGREGA el queso y rectifica sazón de la crema.\n\n
+        MEZCLA el espagueti con la crema con queso.\n\n
+
+    </string>
+
 
 </resources>

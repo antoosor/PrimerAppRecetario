@@ -6,7 +6,10 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:paddingTop="20dp"
-    android:paddingBottom="22dp">
+    android:paddingBottom="22dp"
+    android:clickable="true"
+    android:background="?attr/selectableItemBackground"
+    >
 
     <ImageView
         android:id="@+id/ivFoto"

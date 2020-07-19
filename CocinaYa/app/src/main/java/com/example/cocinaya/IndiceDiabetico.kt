@@ -1,7 +1,9 @@
 package com.example.cocinaya
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -31,7 +33,13 @@ class IndiceDiabetico : AppCompatActivity() {
         layoutManager = LinearLayoutManager(this)
         lista?.layoutManager = layoutManager
 
-        adaptador = AdaptadorCustom(this,diabetico)
+        adaptador = AdaptadorCustom( diabetico, object : ClickListener{
+            override fun onClicck(vista: View, index: Int) {
+                val pasoSopaAguada = Intent(
+                    this@IndiceDiabetico,RecetaSopaAguada::class.java)
+                startActivity(pasoSopaAguada)
+            }
+        })
         lista?.adapter = adaptador
 
     }
