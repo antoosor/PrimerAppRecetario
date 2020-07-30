@@ -23,6 +23,12 @@
     <string name="alambredepollo">Alambre de Pollo</string>
     <string name="alambredepuerco">Alambre de Puerco</string>
     <string name="albondigasderes">Albondigas de Res</string>
+    <string name="bistecesenmorita">Bisteces en Morita</string>
+    <string name="burritoscarne">Burritos de Carne</string>
+    <string name="chicharronsalsaroja">Chicharron en Salsa roja</string>
+    <string name="chimichangas">Chimichangas</string>
+    <string name="cochinitapibil">Cochinita Pibil</string>
+    <string name="flautasred">Flautas de Res</string>
 
 
     <string name="sincronizada">Sincronizada</string>
@@ -378,5 +384,155 @@
 
     </string>
 
+    <string name="ingredientesBistecesEnMorita">
+        4 Cucharadas Aceite de maíz\n
+        60 Gramos Cebolla\n
+        2 Piezas Ajo\n
+        6 Piezas de Chile morita limpio, sin semillas\n
+        300 Gramos Jitomate cortado en trozos\n
+        2 Cucharadas Sazonador Líquido MAGGI®\n
+        1 Cubo Concentrado de Tomate con Pollo CONSOMATE®\n
+        6 Rodajas Carne de res de carne bisteces\n
+
+    </string>
+
+    <string name="procedimientoBistecesEnMorita">
+    Calienta el aceite y sofríe la cebolla, los ajos, los chiles y los jitomates, sazónalo con el Sazonador Líquido MAGGI® y Concentrado de Tomate con Pollo CONSOMATE®. Licúalo y regrésalo al fuego, hasta que espese.\n\n
+
+
+    Fríe los bisteces con aceite caliente en la sartén, posteriormente incorpora la salsa hecha anteriormente y cocinarlos por 5 minutos. Sírvelos calientes acompañados de frijoles.\n\n
+
+    </string>
+
+    <string name="ingredientesBurritosCarne">
+    1/2 libra de carne molida de res extra magra\n
+    2 cucharaditas de chile en polvo\n
+    1 lata (15 oz) de frijoles negros, escurridos y enjuagados\n
+    1/2 taza de salsa mexicana\n
+    3/4 taza de queso cheddar\n
+    1 taza de lechuga romana desmenuzada\n
+    1 tomate (jitomate), picado\n
+    1/4 taza de crema \n
+    4 tortillas de harina (10 pulgadas)\n
+
+    </string>
+
+    <string name="procedimientoBurritosCarne">
+
+    Cocina la carne y el chile en polvo, revolviendo frecuentemente, en una sartén grande a fuego medio-alto durante 5 min. o hasta que la carne ya no esté rosada. Incorpora los frijoles y la salsa; cocina, revolviendo de vez en cuando, durante 5 min o hasta que esté bien caliente. Retira del fuego. Agrega el queso y revuelve.\n\n
+
+    Unta la mezcla de carne en el centro de las tortillas; pon encima la crema agria, el tomate y la lechuga.\n\n
+
+    Dobla los lados opuestos de cada tortilla y, a continuación, enrolla al estilo burrito.\n\n
+
+    </string>
+
+    <string name="ingredientesChicharronsalsaroja">
+    18 tortillas\n
+    1/2 kg de chicharrón en trocitos\n
+    2 chiles ancho\n
+    6 jitomates\n
+    1 cebolla chica\n
+    2 dientes de ajo\n
+    2 chiles chipotles adobados\n
+    1 taza de perejil picado\n
+    1 taza de cilantro picado\n
+    Sal al gusto\n
+    Aceite vegetal\n
+
+    </string>
+
+    <string name="procedimientochicharronsalsaroja">
+    Remoja los chiles 10 minutos en agua caliente; retira las semillas y las venas.\n\n
+    Cocínalos junto con los jitomates, la cebolla y los ajos en agua suficiente para cubrirlos; licúalos con los chipotles, el perejil y el cilantro.\n\n
+    Sofríe la salsa en poco aceite, sazona con sal y cocina hasta que hierva (si espesa mucho, añade 1/2 taza de agua).\n\n
+    Agrega el chicharrón, baja el fuego, pon la tapa y cocina hasta que esté suave.\n\n
+    Calienta las tortillas y reparte el chicharrón.\n\n
+    </string>
+
+    <string name="ingredienteschimichangas">
+    Ingredientes para las tortillas de trigo\n\n
+    250 g de harina de trigo\n
+    50 ml de aceite de oliva o margarina (la receta original utiliza grasa vegetal)\n
+    125 ml de agua\n
+    6 g de sal (media cucharada al ras)\n
+    1 pizca de levadura química (tipo Royal)\n\n
+    Ingredientes para el relleno\n\n
+    400 g de carne picada mixta de cerdo y ternera\n
+    2 tomates picados\n
+    150 g de alubias rojas ya cocidas (opcional)\n
+    1 cebolla picada\n
+    2 chiles verdes jalapeños picados\n
+    2 zanahorias ralladas o cortadas pequeño\n
+    100 g de queso para fundir rallado (el que prefiráis)\n
+    sal\n
+    pimienta\n
+    aceite para freír (el que uséis habitualmente)\n
+    opcional: Si os gusta el picante, podéis añadir una guindilla a la preparación.\n
+
+    </string>
+
+    <string name="procedimientochimichangas">
+    Calentamos un poco de aceite en una sartén y sofreímos la cebolla picada. Cuando comienza a ponerse transparente agregamos la zanahoria, removemos y seguimos cocinando aproximadamente 5 minutos más. Luego añadimos el tomate y los chiles, siempre todo picado, salamos, removemos y dejamos sofreír 3 o 4 minutos.\n\n
+
+    Una vez que las verduras están cocidas, agregamos la carne picada, sal y pimienta al gusto, y con una cuchara de madera vamos removiendo para mezclar y desgranar la carne. Cocinamos hasta que la carne esté lista, añadimos las alubias rojas, retiramos del fuego y reservamos.\n\n
+    </string>
+
+    <string name="ingredientesCochinitaPibil">
+    1 kilogramo cerdo\n
+    150 ml zumo de naranja\n
+    200 g achiote\n
+    1 pizca comino\n
+    1 pizcas orégano\n
+    2 dientes de ajo\n
+    10 g chiles habaneros enteros\n
+    200 g tomates\n
+    50 g cebolla\n
+    hojas de plátano\n
+    Sal\n
+    Pimienta de Jamaica\n
+    Pimienta negra en grano\n
+
+    </string>
+
+    <string name="procedimientoCochinitaPibil">
+    Cortamos la carne de cerdo en porciones de unos 50 gramos. La untamos de sal y una mezcla de pimienta negra en grano y pimienta de Jamaica con las manos.\n\n
+    Asamos las hojas de plátano dándoles un toque de calor en el horno.\n\n
+    Aprovechando su calor, asamos también la cebolla, los chiles habaneros, el ajo y los tomates. Cuando ya lo veamos hecho, lo trituramos todo con un batidora. Añadimos el achiote, las especias y el zumo de naranja. Batimos de nuevo.\n\n
+    Echamos la mezcla anterior en una cazuela grande y la carne, dejando marinar 24 horas o, al menos, toda la noche.\n\n
+    Transcurrido este tiempo, envolvemos la carne marinada dentro de las hojas de plátano asadas.\n\n
+    Precalentamos el horno a 200 ºC, aunque buscaremos una cocción lenta después.\n\n
+    Colocamos la carne en un recipiente de barro e introducimos en el horno, dejando primero unos minutos a esa temperatura y, después, disminuyéndola a 100 ºC y dejando que se haga durante 3 horas. Retiramos y reservamos.\n\n
+    Cortamos primero con un cuchillo afilado la carne y, después, la desmenuzamos bien con las manos.\n\n
+    </string>
+
+
+    <string name="ingredientesFlautasRes">
+    1 Cucharada Aceite de maíz\n
+    1/2 Pieza Cebolla fileteada\n
+    1 Pieza Ajo diente, pelado y picado\n
+    800 Gramos Carne de res falda de res, cocida y deshebrada\n
+    1 Cucharada Salsa Tipo Inglesa CROSSE y BLACKWELL® al gusto\n
+    1 Cucharada Sazonador Líquido MAGGI® al gusto\n
+    12 Piezas Tortillas de maíz\n
+    1/2 Taza Aceite de maíz para freír\n
+    1 Pieza Chile serrano\n
+    4 Piezas Tomates verdes\n
+    1/4 Pieza Cebolla\n
+    3 Manojos Cilantro fresco desinfectado\n
+    1 Cucharadita Sal al gusto\n
+
+    </string>
+
+    <string name="procedimientoFlautaRes">
+      
+    Para el relleno, calienta el aceite y fríe la cebolla con el ajo hasta que estén transparentes, agrega la carne, sazona con Jugo MAGGI® y Salsa Tipo Inglesa CROSSE y BLACKWELL®, mezcla y cocina por 5 minutos.\n\n
+
+
+    Forma las flautas con las tortillas, asegura con palillos y fríelos en el aceite caliente. Retira del fuego y coloca sobre papel absorbente para retirar el exceso de aceite.\n\n
+
+
+    Para la salsa, licúa el chile con los tomates, la cebolla, el cilantro y la sal. Sirve las flautas con la salsa.\n\n
+    </string>
 
 </resources>

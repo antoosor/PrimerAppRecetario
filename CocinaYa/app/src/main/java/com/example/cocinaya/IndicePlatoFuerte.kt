@@ -42,8 +42,8 @@ class IndicePlatoFuerte : AppCompatActivity() {
             when(index){
 
                 0 ->  {val pasoAlambredePollo = Intent(
-                    applicationContext,RecetaAlambredePollo::class.java)
-                    startActivity(pasoAlambredePollo)}
+                applicationContext,RecetaAlambredePollo::class.java)
+                startActivity(pasoAlambredePollo)}
                 1 ->{
                     val pasoAlambredePuerco = Intent(
                         applicationContext,RecetaAlambredePuerco::class.java)
@@ -54,8 +54,32 @@ class IndicePlatoFuerte : AppCompatActivity() {
                     startActivity(pasoAlambredeRes)}
                 3 ->{
                     val pasoAlbondigadeRes = Intent(
-                        applicationContext,RecetaAlambredeRes::class.java)
+                        applicationContext,RecetaAlbondigadeRes::class.java)
                     startActivity(pasoAlbondigadeRes)
+                }
+                4 ->  {val pasoBistacMorita = Intent(
+                    applicationContext,RecetaBistecesRes::class.java)
+                    startActivity(pasoBistacMorita)}
+                5 ->{
+                    val pasoBurritos = Intent(
+                        applicationContext,RecetaBurritosCarne::class.java)
+                    startActivity(pasoBurritos)
+                }
+                6 ->  {val pasoChicharronRoja = Intent(
+                    applicationContext,RecetaChicharronRoja::class.java)
+                    startActivity(pasoChicharronRoja)}
+                7 ->{
+                    val pasoChimichanga = Intent(
+                        applicationContext,RecetaChimichanga::class.java)
+                    startActivity(pasoChimichanga)
+                }
+                8 ->  {val pasoCochinita = Intent(
+                    applicationContext,RecetaCochinita::class.java)
+                    startActivity(pasoCochinita)}
+                9 ->{
+                    val pasoFlautasRes = Intent(
+                        applicationContext,RecetaFlautasRes::class.java)
+                    startActivity(pasoFlautasRes)
                 }
 
 

@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RecetaEspaguetiCremaQueso"></activity>
+        <activity android:name=".RecetaBurritosCarne"></activity>
+        <activity android:name=".RecetaFlautasRes" />
+        <activity android:name=".RecetaCochinita" />
+        <activity android:name=".RecetaChimichanga" />
+        <activity android:name=".RecetaChicharronRoja" />
+        <activity android:name=".RecetaBistecesRes" />
+        <activity android:name=".RecetaEspaguetiCremaQueso" />
         <activity android:name=".RecetaCremaQuesos" />
         <activity android:name=".RecetaCremaChampinion" />
         <activity android:name=".RecetaArrozVerde" />
