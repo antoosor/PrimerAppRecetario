@@ -7,18 +7,20 @@
     <string name="Creditos">Creditos</string>
     <string name="Busqueda">Buscar</string>
 
+    <!--Platillos de sopas o entradas -->
+
     <string name="sopaAguada">Sopa Aguada</string>
     <string name="sopatortilla">Sopa de Tortilla</string>
     <string name="Caldodepollo">Caldo de Pollo</string>
     <string name="Caldoderes">Caldo de Res</string>
     <string name="ArrozRojo">Arroz Rojo</string>
-    <string name="ArrozBlanco">Arroz Blanco</string>fa
+    <string name="ArrozBlanco">Arroz Blanco</string>
     <string name="ArrozVerde">Arroz Verde</string>
     <string name="CremadeChampiñones">Crema de Champiñones</string>
     <string name="CremadeQueso">Crema de Queso</string>
     <string name="Espagueti">Espagueti con Crema y Queso</string>
 
-
+    <!--Platillos de guisados  -->
     <string name="alambrederes">Alambre de Res</string>
     <string name="alambredepollo">Alambre de Pollo</string>
     <string name="alambredepuerco">Alambre de Puerco</string>
@@ -29,6 +31,19 @@
     <string name="chimichangas">Chimichangas</string>
     <string name="cochinitapibil">Cochinita Pibil</string>
     <string name="flautasred">Flautas de Res</string>
+
+
+    <!--Platillos Vegetarianos -->
+    <string name="albondigasberenjena">Albondigas de Berenjena</string>
+    <string name="cevichecolifor">Ceviche de Coliflor</string>
+    <string name="crepasgarvanzo">Crepas de Garbanzo</string>
+    <string name="fideoscalabaza">Fideos de Calabaza</string>
+    <string name="flautascalabaza">Flautas de Calabaza</string>
+    <string name="gorditasfrijol">Gorditas de Frijol</string>
+    <string name="hamburguesaportobello">Hamburguesa Portobello</string>
+    <string name="pizzavegetariana">Pizza Vegetariana</string>
+    <string name="pozolesetas">Pozole de Setas</string>
+    <string name="tacosvegetarianos">Tacos Vegetarianos</string>
 
 
     <string name="sincronizada">Sincronizada</string>
@@ -534,5 +549,256 @@
 
     Para la salsa, licúa el chile con los tomates, la cebolla, el cilantro y la sal. Sirve las flautas con la salsa.\n\n
     </string>
+
+
+    <string name="ingredientesAlbondigasBerenjenas">
+    3 berenjenas\n
+    50 g de pan molido\n
+    50 g de queso parmesano rallado\n
+    2 yemas de huevo\n
+    3 hojas de albahaca\n
+    70 mL de aceite de oliva\n
+    50 g de harina\n
+    4 jitomates\n
+    ¼ de cebolla\n
+    1 diente de ajo\n
+    Sal y pimienta\n
+
+    </string>
+
+    <string name="procedimientoAlbondigasBerenjenas">
+    Corta las berenjenas a lo largo y envuélvelas en papel aluminio. Mételas en el horno a 200°C por 30 minutos.\n\n
+    Sácalas, retírales la pulpa y ponlas en un tazón. Reserva.\n\n
+    En un recipiente coloca las yemas, el queso y la albahaca picada finamente. Bate hasta incorporar. Agrega la pulpa y el pan molido, salpimienta. Mezcla hasta obtener una pasta que puedas manipular.\n\n
+    Forma las albóndigas y colócalas en una sartén junto con el aceite de oliva bien caliente. Fríelas hasta que estén doradas.\n\n
+    Pon en la licuadora el jitomate, la cebolla y el ajo, salpimienta y licua hasta que sea un caldillo fino. Ahora fríelo en una olla pequeña por tres minutos y baña las albóndigas con esta mezcla.\n\n
+
+    </string>
+
+
+    <string name="ingredientesCevicheColiflor">
+    1 coliflor picada en floretes chicos\n
+    1/2 cebolla morada picada en cubos pequeños\n
+    3 jitomates sin semilla picados en cubos pequeños\n
+    1/4 manojo de cilantro picado\n
+    3 chiles verdes sin semillas picados finamente\n
+    4 cdas. de aceite de oliva\n
+    1 pepino picado en cubos pequeños\n
+    2 tazas de jugo de jitomate\n
+    2 cdas. de salsa inglesa\n
+    2 cdas. de jugo maggi\n
+    1 limón\n
+    Galletas saladas al gusto\n
+
+    </string>
+
+    <string name="procedimientoCevicheColiflor">
+    En una olla calienta agua hasta que hierva.\n\n
+    Agrega los floretes de coliflor y cuece durante 3 minutos.\n\n
+    Retira del fuego, cuela y colócalos dentro de un tazón con agua fría.\n\n
+    Cuela los floretes y seca perfectamente.\n\n
+    Mezcla en un tazón el resto de los ingredientes y distribúyelos en vasos pequeños.\n\n
+    Termina con los floretes de coliflor encima.\n\n
+    Decora los vasos con una rodaja fina de limón.\n\n
+    Acompaña con galletas saladas.\n\n
+    </string>
+
+
+    <string name="ingredientesCrepasGarvanzo">
+    1 taza de harina de garbanzo\n
+    300 mL de agua\n
+    1 cda. de cúrcuma\n
+    1 cda. de sal\n
+    1 calabacita\n
+    1 aguacate\n
+    1 limón (el jugo)\n
+    1 cdas. de cilantro\n
+    6 jitomates deshidratados\n
+
+    </string>
+
+    <string name="procedimientoCrepasGarvanzo">
+
+    En un tazón para batir mezcla todos los ingredientes para las crepas y bate hasta que obtengas una masa homogénea.\n\n
+    En una sartén bien caliente coloca un cucharón de masa y extiéndela rápidamente con movimientos circulares. Dórala un par de minutos. Cuando los bordes comiencen a levantarse dale la vuelta y deja que se cocine y dore por dos minutos más. Repite el proceso hasta terminar con la masa.\n\n
+    Coloca en un recipiente el aguacate machacado, la calabacita rallada y el jugo del limón. Mezcla hasta que el aguacate se suavice y se incorporen todos los ingredientes.\n\n
+    Pica los jitomates deshidratados y agrégalos junto con el cilantro picado finamente a la preparación anterior.\n\n
+    Rellena las crepas con la mezcla y enrolla, procurando que se apriete bien.\n\n
+    Corta las orillas y sirve.\n\n
+
+    </string>
+
+    <string name="ingredientesFideosCalabaza">
+    5 calabazas medianas\n
+    1 cda. de aceite de oliva\n
+    ½ taza de pesto\n
+    Sal y pimienta al gusto\n
+    Queso feta o parmesano para decorar\n
+
+    </string>
+
+    <string name="procedimientoFideosCalabaza">
+   Coloca en un cortador especial para verduras en forma de espiral las calabazas para que salgan como fideos. Colócalas en una sartén con una cucharada de aceite de oliva y saltea hasta que queden más suaves. Agrega el pesto, la sal y pimienta al gusto y revuelve. Sirve y decora con tu queso preferido.\n\n
+
+    </string>
+
+    <string name="ingredientesFlautasCalabaza">
+    500 g de tortillas de maíz\n
+    500 g de calabacitas ralladas\n
+    ½ cebolla fileteada\n
+    1 ½ taza de cacahuate tostado\n
+    3 guajillos hidratados\n
+    ¼ de cebolla\n
+    ¼ taza de ajonjolí tostado\n
+    200 g de mantequilla en cubos pequeños\n
+    1 taza de crema\n
+    2 cdas. de peperoncini\n
+    ½ taza de brotes de lenteja roja\n
+    Aceite suficiente para freír\n
+
+    </string>
+
+    <string name="procedimientoFlautasCalabaza">
+
+    Cuece las calabacitas en una sartén a flama media con mantequilla y cebolla fileteada, salpimienta. Coloca la calabaza guisada en tortillas, forma los tacos, fríelos en una sartén a flama alta y retira el exceso de aceite.\n\n
+    Licua cebolla, crema, una taza de cacahuate, ajonjolí y guajillo. Vierte la mezcla en una cacerola a fuego medio y retira al primer hervor.\n\n
+    Sirve los tacos, báñalos con el encacahuatado y termina con el peperoncini, cacahuate y brotes de lenteja.\n\n
+
+    </string>
+
+
+    <string name="ingredientesGorditaFrijol">
+    1 1/2 tazas de frijoles negros refritos\n
+    1 pechuga de pollo cocida y deshebrada\n
+    1 kg de masa de maíz para tortillas\n
+    100 g de queso añejo rallado n 3 chiles chipotles adobados y picados\n
+    1/4 de litro de crema\n
+    Aceite vegetal\n
+    Sal y pimienta al gusto\n
+    2 jitomates\n
+    1/2 de cebolla\n
+    2 dientes de ajo\n
+    3 chiles de árbol\n
+    1/2 cucharadita de orégano\n
+    Sal y pimienta al gusto\n
+
+    </string>
+
+    <string name="procedimientoGorditaFrijol">
+    Mezcla los frijoles con la masa, el queso, los chiles, sal y pimienta, amasa para integrarlos; toma porciones y forma las gorditas del tamaño que desees.\n\n
+    Fríelas en aceite muy caliente hasta que estén cocidas por dentro y doradas por fuera; retíralas y colócalas sobre servilletas de papel absorbente para quitarles el exceso de grasa.\n\n
+    Licua los ingredientes hasta obtener una mezcla homogénea; vierte en una salsera y reserva.\n\n
+    Cubre las gorditas con el pollo, corónalas con la crema y báñalas con la salsa o que cada comensal se sirva a su gusto.\n\n
+    </string>
+
+
+    <string name="ingredientesHamburguesaPortobello">
+    4 panes de hamburguesas\n
+    4 piezas de hongo portobello\n
+    1 pimiento rojo en tiras\n
+    1 pimiento verde en tiras\n
+    1 pimiento amarillo en tiras\n
+    3 cdss. de aceite de oliva\n
+    4 hojas de lechuga\n
+    1 taza de espinaca cocida y escurrida\n
+    1 taza de crema para batir\n
+    1 taza de queso parmesano rallado\n
+
+    </string>
+
+    <string name="procedimientoHamburguesaPortobello">
+    Asa el portobello y los pimientos en una plancha a fuego alto con el aceite.\n\n
+    Mientras tanto, calienta la espinaca con la crema y el parmesano; salpimienta.\n\n
+    Tuesta el pan y monta con las diferentes preparaciones.\n\n
+    </string>
+
+    <string name="ingredientesPizzaVegetaria">
+    1/4 de taza de puré de tomate\n
+    1 cda. de aceite de oliva\n
+    2 calabacitas rebanadas\n
+    1 jitomate bola rebanado\n
+    6 champiñones rebanados\n
+    200 g de queso Oaxaca bajo en grasa y deshebrado\n
+    1/2 cda. de orégano molido\n
+    Sal y pimienta negra molida al gusto\n
+    1 taza de harina de trigo\n
+    1 taza de harina integral\n
+    2 cdas. de levadura\n
+    1/2 cda. de sal\n
+    1 cda. de aceite de oliva\n
+    1 cda. de miel de abeja\n
+
+
+    </string>
+
+    <string name="procedimientoPizzaVegetariana">
+
+    Para hacer la masa: mezcla los ingredientes secos, agrega 2/3 de taza de agua tibia, el aceite y la miel, amasa para integrar y lograr una masa elástica.\n\n
+    Forma una bola, ponla en un tazón grande, cubre con plástico autoadherible y deja reposar para que doble su volumen.\n\n
+    Sobre una superficie limpia y ligeramente enharinada extiende la masa y cubre una charola para pizza.\n\n
+    Unta el aceite y el puré sobre la masa; distribuye las verduras, sazona con el orégano, sal y pimienta y cubre con el queso.\n\n
+    Hornea, en horno precalentado, durante 25 minutos a 180°C o hasta que la masa esté cocida y la orilla comience a dorar; retira la charola, corta las porciones de pizza y sirve.\n\n
+
+    </string>
+
+    <string name="ingredientesPozoleSetas">
+    1 pizca de orégano\n
+    3 cucharadas de aceite de oliva\n
+    5 jitomates guaje\n
+    3 chiles anchos desvenados\n
+    3 chiles guajillos desvenados\n
+    1 hoja de laurel\n
+    1 manojo pequeño de perejil\n
+    1 poro\n
+    2 tallos de apio\n
+    4 zanahorias\n
+    2 dientes de ajo\n
+    1 cebolla\n
+    6 limones\n
+    3 rábanos en rebanadas\n
+    1 taza de lechuga romana rebanada\n
+    1 aguacate en cubos\n
+    1/2 de maíz precocido para pozole\n
+    1/2 de setas\n
+    1/2 cebolla morada y picada finamente\n
+    </string>
+
+    <string name="procedimientoPozoleSetas">
+    Hierve cuatro litros de agua junto con la cebolla, el ajo, el laurel, el perejil, el poro y la zanahoria por una hora. Al terminar, cuela el caldo.\n\n
+    En un litro de caldo hierve los chiles y el jitomate por 10 minutos. Muele la salsa y viértela en el caldo pasándola por un colador. Añade sal.\n\n
+    Cuece el maíz en otra olla por una hora. Drena los granos y vierte el caldo con chile.\n\n
+    Fríe las setas en una sartén muy caliente con el aceite de oliva y pásalas al pozole.\n\n
+    Ofrece en platos hondos.\n\n
+    </string>
+
+
+    <string name="ingredientesTavosVegetarianos">
+    ½ taza de fresas picadas\n
+    4 rábanos rebanados\n
+    Hojas de espinaca fresca\n
+    Sal y pimienta al gusto\n
+    1 limón (el jugo)\n
+    1 cda. de mayonesa\n
+    1 taza de yogur griego sin azúcar\n
+    1 cda. de perejil picado\n
+    1 cda. de eneldo picado\n
+    2 calabacitas ralladas finamente\n
+    1 manzana picada en cubos\n
+    ½ taza de jitomates cherry cortados a la mitad\n
+    4 papas cocidas y cortadas en cubos\n
+    Sal y pimienta al gusto\n
+    ¼ de taza de almendra en polvo (o cacahuate)\n
+    ½ taza de queso parmesano rallado\n
+    1 huevo\n
+    </string>
+
+    <string name="procedimientoTacosVegetarianos">
+    Con un colador exprime la calabaza rallada hasta retirar por completo el exceso de agua. Coloca en un bowl y mezcla con el resto de los ingredientes y mezcla hasta que queden integrados por completo. Con las manos toma una porción de “masa” y ponla sobre un pedazo de plástico (puede ser un trozo de bolsa para alimentos que esté limpia).\n\n
+    Coloca otro pedazo de plástico encima y, con ayuda de un rodillo o una máquina para tortillas, forma una tortilla.\n\n
+    Calienta en una plancha o en una sartén de superficie antiadherente y cocina las tortillas por ambos lados. Reserva en un pedazo de papel aluminio para que se conserven calientes. Sigue el mismo procedimiento con el resto de la masa.\n\n
+    Por otro lado, mezcla en un bowl los ingredientes de la ensalada y sazona. Después reserva en el refrigerador.\n\n
+    Para servir los tacos coloca hojas de espinaca sobre la tortilla de calabaza. Enseguida la ensalada y decora con rábanos. ¡Disfruta!\n\n
+    </string>
+
 
 </resources>

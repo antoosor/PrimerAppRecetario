@@ -38,9 +38,59 @@ class IndiceVegetariana : AppCompatActivity() {
 
         adaptador = AdaptadorCustom( vegetarianas, object : ClickListener{
             override fun onClicck(vista: View, index: Int) {
-                val pasoSopaAguada = Intent(
-                    this@IndiceVegetariana,RecetaSopaAguada::class.java)
-                startActivity(pasoSopaAguada)
+                when(index){
+
+                    0 ->  {val pasoAlbondigasBerenjena = Intent(
+                        applicationContext,RecetaAlbondigasBerenjena::class.java)
+                        startActivity(pasoAlbondigasBerenjena)}
+                    1 ->{
+                        val pasoCevicheColiflor = Intent(
+                            applicationContext,RecetaCevicheColiflor::class.java)
+                        startActivity(pasoCevicheColiflor)
+                    }
+                    2 ->  {val pasoCrepasGarvanzo = Intent(
+                        applicationContext,RecetaCrepaGarvanzo::class.java)
+                        startActivity(pasoCrepasGarvanzo)}
+                    3 ->{
+                        val pasoFideosCalabaza = Intent(
+                            applicationContext,RecetaFideosCalabaza::class.java)
+                        startActivity(pasoFideosCalabaza)
+                    }
+                    4 ->  {val pasoFlautasCalabaza = Intent(
+                        applicationContext,RecetaFlautasCalabaza::class.java)
+                        startActivity(pasoFlautasCalabaza)}
+                    5 ->{
+                        val pasoGorditasFrijol = Intent(
+                            applicationContext,RecetaGorditaFrijol::class.java)
+                        startActivity(pasoGorditasFrijol)
+                    }
+                    6 ->  {val pasoHamburguesaPortobello= Intent(
+                        applicationContext,RecetaHamburguesaPortobello::class.java)
+                        startActivity(pasoHamburguesaPortobello)}
+                    7 ->{
+                        val pasoPizzaVegetariana = Intent(
+                            applicationContext,RecetaPizzaVegetariana::class.java)
+                        startActivity(pasoPizzaVegetariana)
+                    }
+                    8 ->  {val pasoPozoleSetas = Intent(
+                        applicationContext,RecetaPozoleSetas::class.java)
+                        startActivity(pasoPozoleSetas)}
+                    9 ->{
+                        val pasoTacosVegetarianos = Intent(
+                            applicationContext,RecetaTacosVegetarianos::class.java)
+                        startActivity(pasoTacosVegetarianos)
+                    }
+
+
+
+
+
+                }
+
+
+
+
+
             }
         })
         lista?.adapter = adaptador
