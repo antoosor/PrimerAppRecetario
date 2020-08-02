@@ -35,9 +35,35 @@ class IndiceDiabetico : AppCompatActivity() {
 
         adaptador = AdaptadorCustom( diabetico, object : ClickListener{
             override fun onClicck(vista: View, index: Int) {
-                val pasoSopaAguada = Intent(
-                    this@IndiceDiabetico,RecetaSopaAguada::class.java)
-                startActivity(pasoSopaAguada)
+                when(index){
+
+                    0 ->  {val pasoBarraGranola = Intent(
+                        applicationContext,RecetaBarraGranola::class.java)
+                        startActivity(pasoBarraGranola)}
+                    1 ->{
+                        val pasoCevicheSoya = Intent(
+                            applicationContext,RecetaCevicheSoya::class.java)
+                        startActivity(pasoCevicheSoya)
+                    }
+                    2 ->  {val pasoFresasMarcapone = Intent(
+                        applicationContext,RecetaFresasMarcapone::class.java)
+                        startActivity(pasoFresasMarcapone)}
+                    3 ->{
+                        val pasoGalletasManzana = Intent(
+                            applicationContext,RecetaGalletasManzana::class.java)
+                        startActivity(pasoGalletasManzana)
+                    }
+                    4 ->  {val pasoJitomatePurePapa = Intent(
+                        applicationContext,RecetaJitomatePurePapa::class.java)
+                        startActivity(pasoJitomatePurePapa)}
+                    5 ->{
+                        val pasoPolloSalsaAvena = Intent(
+                            applicationContext,RecetaPolloSalsaAvena::class.java)
+                        startActivity(pasoPolloSalsaAvena)
+                    }
+
+
+                }
             }
         })
         lista?.adapter = adaptador

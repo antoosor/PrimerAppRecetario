@@ -45,6 +45,24 @@
     <string name="pozolesetas">Pozole de Setas</string>
     <string name="tacosvegetarianos">Tacos Vegetarianos</string>
 
+    <!--Platillos Diabetico -->
+    <string name="barragranola">Barras de Granola</string>
+    <string name="cevichesoya">Ceviche de Soya</string>
+    <string name="fresasmascarpone">Fresas Rellenas de Mascarpone</string>
+    <string name="galletasmanzana">Galletas de Manzana</string>
+    <string name="jitomatepapa">Jitomate Rellenos de Pure de Papa</string>
+    <string name="polloavena">Pollo en Salsa de Avena</string>
+
+
+    <!--Platillos Bebidas -->
+    <string name="palomagranada">Paloma de Granada</string>
+    <string name="cafedalgona">Café Espumoso Dalgona</string>
+    <string name="licuadomangoavena">Licuado de Mango con Leche de Avena</string>
+    <string name="mangonada">Mangonada</string>
+    <string name="micheladacubanacamarones">Michelada Cubana con Camarones</string>
+    <string name="micheladamangochamoy">Michelada de Mango con Chamoy</string>
+    <string name="mojitofrape">Mojito Frappé de Bluberry</string>
+    <string name="atolemazapan">Atole de Mazapán</string>
 
     <string name="sincronizada">Sincronizada</string>
     <string name="sandwichmontecristo">Sandwinch Montecristo</string>
@@ -798,6 +816,307 @@
     Calienta en una plancha o en una sartén de superficie antiadherente y cocina las tortillas por ambos lados. Reserva en un pedazo de papel aluminio para que se conserven calientes. Sigue el mismo procedimiento con el resto de la masa.\n\n
     Por otro lado, mezcla en un bowl los ingredientes de la ensalada y sazona. Después reserva en el refrigerador.\n\n
     Para servir los tacos coloca hojas de espinaca sobre la tortilla de calabaza. Enseguida la ensalada y decora con rábanos. ¡Disfruta!\n\n
+    </string>
+
+
+    <string name="ingredientesBarraGranola">
+    1 taza de dátiles sin hueso\n
+    ¼ de taza de jarabe light\n
+    1 ½ tazas de avena\n
+    ½ taza de almendras troceadas y horneadas\n
+    ½ taza de pepitas de calabaza tostadas\n
+    ½ taza de arándanos\n
+    1 cda. de extracto de almendra natural\n
+    </string>
+
+    <string name="procedimientoBarraGranola">
+
+    Cubre un molde rectangular con papel encerado o papel para hornear (deja papel extra de fuera de las orillas para que sea fácil de desmoldar).\n\n
+    En un procesador de alimentos, mezcla dátiles y el jarabe light hasta formar una pasta.\n\n
+    En un bowl grande, mezcla la avena, almendras, pepitas de calabaza y arándanos.\n\n
+    Agrega la mezcla de dátiles a mezcla de avena y combina todo con ayuda de una espátula o con las manos.\n\n
+    Pon la mezcla dentro del molde con papel encerado y aprieta hasta formar una capa lisa.\n\n
+    Mete al congelador por 20 minutos hasta que quede firme. Saca del congelador la mezcla de la orilla de papel de los lados. Corta rectángulos tamaño barrita y sirve.\n\n
+
+    </string>
+
+
+    <string name="ingredientesCevicheSoya">
+    250 g de soya texturizada\n
+    2 pepinos pequeños, pelados y picados\n
+    500 g de jitomate, picado\n
+    1/2 cebolla grande, picada\n
+    10 ramitas de cilantro, sus hojas picadas finamente\n
+    3 chiles jalapeños, picados\n
+    500 g de limones, su jugo\n
+    1 cda. de orégano seco\n
+    Sal al gusto\n
+    Tostadas de maíz\n
+    2 aguacates, pelados y picados\n
+    </string>
+
+    <string name="procedimientoCevicheSoya">
+
+    Coloca la soya en una olla y cubre con agua. Calienta a fuego alto hasta que empiece a hervir y deja que hierva durante 3 minutos. Escurre y enjuaga muy bien con agua limpia.\n\n
+    Deja enfriar completamente.\n\n
+    Mezcla la soya hidratada con el pepino, jitomate, cebolla, cilantro y chile en un tazón o ensaladera. Vierte encima el jugo de limón y deja reposar durante 30 minutos. Sazona con orégano y sal.\n\n
+    Sirve sobre tostadas y adorna con cubitos de aguacate.\n\n
+    </string>
+
+
+    <string name="ingredientesFresaMascarpone">
+    5 fresas\n
+    30 g de queso Mascarpone\n
+    30 g de nuez picada\n
+    5 g de chocolate sin azúcar\n
+    Endulzante\n
+    </string>
+
+    <string name="procedimientoFresaMascarpone">
+
+    Lava y desinfecta las fresas, posteriormente colócalas en toallas absorbentes.\n\n
+    Corta el centro de la fresa con ayuda de una cuchara o un cuchillo modelador y reserva.\n\n
+    En un bowl mezcla el queso junto al endulzante y ponlo dentro de una manga pastelera o una bolsa.\n\n
+    Rellena las fresas y agrega nuez picada para la decoración.\n\n
+    Funde a baño maría el chocolate y con ayuda de una cuchara, decora.\n\n
+
+
+    </string>
+
+
+    <string name="ingredientesGalletasManzana">
+    5 rodajas de manzana\n
+    Crema de cacahuate\n
+    30 g de nuez picada\n
+    5 g de chocolate sin azúcar\n
+    Granola\n
+    </string>
+
+    <string name="procedimientoGalletasManzana">
+
+    Lava las manzanas y corta en rodajas, puedes ayudarte de un cortador multifuncional.\n\n
+    Coloca las rodajas en un bowl con agua y jugo de limón.\n\n
+    Posteriormente, sécalas con toallas absorbentes y coloca una cucharadita de crema de cacahuate.\n\n
+    Decora con granola y chocolate sin azúcar.\n\n
+
+
+    </string>
+
+
+    <string name="ingredientesJitomatePapa">
+    250 g de soya texturizada\n
+    2 pepinos pequeños, pelados y picados\n
+    500 g de jitomate, picado\n
+    1/2 cebolla grande, picada\n
+    10 ramitas de cilantro, sus hojas picadas finamente\n
+    3 chiles jalapeños, picados\n
+    500 g de limones, su jugo\n
+    1 cda. de orégano seco\n
+    Sal al gusto\n
+    Tostadas de maíz\n
+    2 aguacates, pelados y picados\n
+    </string>
+
+    <string name="procedimientoJitomatePapa">
+
+    Prepara el puré de papa y reserva.\n\n
+    Corta una rebanada en la parte inferior del jitomate para que pueda pararse. corta tambièn la parte superior del jitomate y saca con una cuchara parisienne lo más posible de semillas y pulpa.\n\n
+    Combina el puré de papa con el queso, la crema, la nuez moscada y salpimienta al gusto. Pon la combinación en una duya con punta rizada y rellena los jitomates.\n\n
+    Coloca los jitomates en una charola engrasada con aceite de oliva. Hornéalos a 200ªC durante 15 minutos o hasta que el puré esté ligeramente dorado pero que los jitomates conserven su forma.\n\n
+    Al servir, coloca un poco de cebollín y rocía un poco de aceite de oliva. \n\n
+
+    </string>
+
+
+    <string name="ingredientesPolloAvena">
+    4 muslos grandes de \n
+    1 cucharada de mantequilla\n
+    1 taza de avena\n
+    10 nueces\n
+    2 tazas de caldo de pollo\n
+    1/2 taza de leche light\n
+    1/2 taza de arándanos\n
+    </string>
+
+    <string name="procedimientoPolloAvena">
+
+    Coloca los muslos en una charola para hornear y mete al horno precalentado a 180 ºC por 25 minutos o hasta que dore el pollo.\n\n
+    Coloca la mantequilla en una sartén caliente y espera a que se derrita, agrega la avena y las nueces picadas. Saltea por tres minutos y vierte el caldo. Cocina por 10 minutos más, salpimenta y deja que se enfríe un poco.\n\n
+    Lleva la mezcla a la licuadora y muele junto con la leche. Regresa la preparación al fuego y agrega los arándanos. Sirve el pollo y báñalo con la salsa de avena.\n\n
+
+
+    </string>
+
+    <string name="ingredientesPalomaGranada">
+    1 toronja, cortada en rodajas\n
+    1/4 tazas de sal, para escarchar\n
+    1/8 tazas de jugo de limón\n
+    1 pizca de sal\n
+    1/4 tazas de tequila\n
+    1/4 tazas de hielo\n
+    1 toronja, cortada en rojadas\n
+    1 limón, cortado en rodajas\n
+    1/2 tazas de granada\n
+    1/2 tazas de refresco de toronja\n
+    suficiente de granada\n
+    </string>
+
+    <string name="procedimientoPalomaGranada">
+
+    Coloca la boquilla de tu vaso en la toronja y luego escarcha con la sal y reserva.\n\n
+    En el mismo vaso, mezcla el jugo de limón con la sal y el tequila hasta incorporar. Agrega los hielos, la toronja en rodajas, el limón y la granada, y rellena con el refresco de toronja.\n\n
+    Decora con más granada, sirve y disfruta.\n\n
+
+    </string>
+
+
+    <string name="ingredientesCafeEspumoso">
+    2 cucharadas de café soluble\n
+    2 cucharadas de Azúcar Mascabado Domino®\n
+    3 cucharadas de agua, caliente\n
+    al gusto de hielo\n
+    suficiente de leche\n
+    </string>
+
+    <string name="procedimientoCafeEspumoso">
+
+    En un bowl, vierte el café soluble, el Azúcar Mascabado Domino®, el agua caliente y bate hasta crear una espuma. Reserva.\n\n
+    Sirve un vaso con hielos, vierte la leche y luego, la espuma de café. Disfruta.\n\n
+
+    </string>
+
+
+    <string name="ingredientesLicuadoMangoAvena">
+    1 taza de Avena Quaker® Old Fashioned\n
+    5 tazas de agua\n
+    1/2 cucharaditas de esencia de vainilla, sin color\n
+    2 cucharadas de azúcar morena\n
+    1/2 cucharaditas de sal\n
+    1/2 tazas de mango, picado\n
+    1 cucharada de coco rallado\n
+    </string>
+
+    <string name="procedimientoLicuadoMangoAvena">
+
+    Para la leche de avena Quaker®, coloca la avena Quaker® en un bowl y vierte el agua, reposa por 30 minutos, cuela y reserva.\n\n
+    Licúa la avena Quaker®, la esencia de vainilla, la azúcar morena y la sal con el agua.\n\n
+    Cuela con ayuda de un colador o una manta de cielo 2 veces o hasta que ya no se vean restos de avena.\n\n
+    Para el licuado de mango, licúa la leche de avena Quaker®, el mango y el coco.\n\n
+
+    </string>
+
+
+    <string name="ingredientesMangonada">
+    1 taza de agua\n
+    1 taza de azúcar\n
+    4 tazas de hielo\n
+    5 mangos, (4 piezas para el raspado y una pieza cortada en cubos para decorar)\n
+    3/4 tazas de chamoy, líquido (¼ taza para escarchar los vasos)\n
+    3/4 tazas de chile, en polvo (¼ taza para escarchar los vasos)\n
+    1/2 tazas de piña, enchilada\n
+    4 pulpas de tamarindo, en rollitos\n
+    4 paletas enchiladas de pulpa de tamarindo\n
+    </string>
+
+    <string name="procedimientoMangonada">
+
+    En una ollita calienta el agua con el azúcar hasta formar un jarabe espeso. Deja enfriar.\n\n
+    Licúa el jarabe con la pulpa de cuatro mangos y el hielo hasta obtener una mezcla homogénea y tersa.\n\n
+    Escarcha los vasos con un poco de chamoy y el chilito en polvo. Decora el interior de los vasos con chamoy.\n\n
+    Vierte la mangonada en los vasos y coloca los cubitos de mango, decora con el chamoy, el chile y los dulces picositos. Sirve.\n\n
+
+    </string>
+
+
+    <string name="ingredientesMicheladaCubana">
+
+    1 cerveza\n
+    2 limon\n
+    jugo sazonador\n
+    salsas inglesa\n
+    2 brocheta de madera\n
+    10 camarones\n
+    4 barritas de pepino\n
+    salsas tabasco\n
+    sal\n
+    chiles en polvo\n
+    </string>
+
+    <string name="procedimientoMicheladaCubana">
+
+    Agregar limón sobre el contorno del tarro.\n\n
+    Mezclar la sal y el chile en polvo en un plato.\n\n
+    Escarchar los tarros.\n\n
+    Agregar los hielos, el limón, jugo sazonador, salsa inglesa, salsa tabasco y una pizca de sal.\n\n
+    Revolver los ingredientes.\n\n
+    Agregar la cerveza.\n\n
+    Servir con dos baras de pepino y la brocheta de camarones.\n\n
+
+    </string>
+
+
+    <string name="ingredientesMicheladaMangoChamoy">
+    1/2 tazas de mango, en cubos para la pulpa de mango\n
+    1 cucharada de chamoy líquido, para la pulpa de mango\n
+    2 cucharadas de jugo de limón, para la pulpa de mango\n
+    1/3 limones, para el escarchado\n
+    suficiente de sal, para el escarchado\n
+    2 cucharadas de salsa picante, (de preferencia salsa para botanas)\n
+    2 cucharadas de jugo de limón\n
+    1/2 cucharaditas de salsa maggi\n
+    1 botella de cerveza clara\n
+    1/4 tazas de mango, en cubitos para acompañar\n
+    suficiente de mango, para acompañar\n
+    suficiente de pepino, para acompañar\n
+    </string>
+
+    <string name="procedimientoMicheladaMangoChamoy">
+
+    Licúa la pulpa de mango junto con el chamoy líquido y el jugo de limón hasta incorporar perfectamente. Reserva.\n\n
+    Pasa el tercio de limón sobre el borde del vaso cervecero, luego escarcha con sal hasta cubrir por completo.\n\n
+    Vierte la pulpa de mango preparada en el vaso escarchado, añade la salsa picante, el jugo de limón y la salsa maggi; mezcla y sirve la cerveza hasta la mitad, coloca el mango picado y termina de rellenar con cerveza. Decora con pepino y mango.\n\n
+
+    </string>
+
+
+    <string name="ingredientesMojitoFrappe">
+    1/4 tazas de blueberry, congelado\n
+    2 fresas, congelada\n
+    1 onza de jugo de limón\n
+    2 cucharadas de azúcar\n
+    8 hojas de hierbabuena\n
+    2 onzas de ron blanco\n
+    2 onzas de agua mineral\n
+    al gusto de limón, para decorar\n
+    al gusto de hierbabuena, para decorar\n
+    al gusto de blueberry, para decorar\n
+    </string>
+
+    <string name="procedimientoMojitoFrappe">
+
+    Saca de tu refrigerador Black Stainless de Samsung los hielos, con la función “Cubed/crushed ice”.\n\n
+    Licúa los blueberries, las fresas, el jugo de limón, el azúcar, la hierbabuena y hielo.\n\n
+    Agrega el ron, el agua mineral, decora con una rodaja de limón y blueberries.\n\n
+
+
+    </string>
+
+
+    <string name="ingredientesAtoleMapazam">
+    4 tazas de leche de vaca\n
+    1 taza de agua\n
+    1/2 tazas de leche evaporada\n
+    1/2 tazas de leche condensada light\n
+    5 mazapán\n
+    5 cucharadas de fécula de maíz\n
+    1 raja de canela, para cocer atole y para servir\n
+    </string>
+
+    <string name="procedimientoAtoleMazapan">
+
+    Licúa la leche entera con el agua, la leche evaporada, la leche condensada, el mazapán, la fécula de maíz hasta conseguir una mezcla homogénea.\n\n
+    Calienta una ollita a fuego medio, vierte la preparación anterior, agrega las canela y cocina hasta que espese, sirve el atole y disfruta calientito.\n\n
+
     </string>
 
 
