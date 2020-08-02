@@ -18,5 +18,12 @@ class MainActivity : AppCompatActivity() {
             pasarDatos.putExtra("pasarNombre", edNombreUsuario.text.toString())
             startActivity(pasarDatos)
         }
+
+        btnCreditos.setOnClickListener {
+            val pasarDtosCreditos = Intent (this,VIdeoCreditos::class.java)
+            startActivity(pasarDtosCreditos)
+
+
+        }
     }
 }

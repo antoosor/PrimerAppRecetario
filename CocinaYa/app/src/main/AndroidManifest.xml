@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RecetaAtoleMazapan"></activity>
+        <activity android:name=".VIdeoCreditos"></activity>
+        <activity android:name=".RecetaAtoleMazapan" />
         <activity android:name=".RecetaMojitoFrappe" />
         <activity android:name=".RecetaMicheladaChamoy" />
         <activity android:name=".RecetaMicheladaCubana" />
